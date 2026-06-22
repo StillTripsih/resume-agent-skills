@@ -1,38 +1,68 @@
-# Alex Developer
+# YEVHEN MATVIEIEV
 
-San Francisco, CA · alex@example.com · github.com/alexdev · linkedin.com/in/alexdev
+Senior Visual Designer | AI-Enhanced Creative | Photoshop Expert
+15+ Years of Commercial Experience | Remote Worldwide
+stillfred.mail@gmail.com | behance.net/stillfredme228 | linkedin.com/in/tripsih-tv
 
-## Summary
+## PROFESSIONAL SUMMARY
 
-Full-stack engineer with 6+ years building SaaS products in TypeScript, React, and Node.js. Shipped customer-facing workflows end-to-end, from accessible UI through backend APIs, with a focus on reliability, maintainability, and clear cross-functional delivery.
+Senior Visual Designer with 15+ years of commercial experience in graphic design, advertising, branding, illustration, photography, video production, and AI-assisted creative workflows. Expert in Adobe Photoshop. Created 1,500+ high-performing visuals generating millions of views. Combines classical design with Generative AI, marketing analytics, and creative strategy to deliver commercially effective visual content.
 
-## Work Experience
+## CORE SKILLS
 
-### Senior Software Engineer — Example Co (2021–Present)
+Design: Adobe Photoshop (Expert), Illustrator, InDesign, Lightroom, Premiere Pro, Figma
+AI Image: Stable Diffusion, ComfyUI, ControlNet, Flux, Midjourney, Firefly, DALL-E
+AI Video: Runway, Kling, Veo, Pika
+LLMs: ChatGPT, Claude, Gemini
+AI Skills: Prompt Engineering, LoRA Training, Character Consistency, AI Workflow Design
+Marketing: CTR Optimization, A/B Testing, Competitor Analysis, Creative Strategy
+E-commerce: Amazon Listing, A+ Content, Product Infographics, Conversion Design
+Web: Figma, Landing Pages, UX/UI, Wix, Weblium
 
-- Built REST and GraphQL services in Node.js and PostgreSQL for customer account, reporting, and admin workflows used by 2M+ monthly active users.
-- Led the React 18 and TypeScript migration for a core customer dashboard, reducing the bug backlog 30% while keeping weekly releases on schedule.
-- Reworked validation, pagination, and error contracts on high-volume account-management APIs so ambiguous customer states were easier to detect, debug, and resolve.
-- Partnered with design and product to ship accessible onboarding and account-settings flows, reaching WCAG 2.1 AA on core product surfaces.
-- Added Datadog dashboards and alerts for latency, error-rate, and queue-depth trends, giving on-call engineers faster signals for production regressions.
-- Mentored two engineers through design docs, code reviews, and rollout planning for shared platform changes used across product teams.
+## PROFESSIONAL EXPERIENCE
 
-**Notable work:** Led the account-state modernization project, replacing scattered frontend checks with typed API contracts and feature-flagged rollout paths for plan status, workspace settings, and customer-visible notifications.
+### Video Operator & Video Editor
+May 2025 - Present
+- Video shooting, camera operation, scene preparation
+- Video editing, color correction, sound synchronization
+- Social media, YouTube, and advertising video production
+- Retention-focused editing and visual storytelling
 
-### Software Engineer — Startup Labs (2018–2021)
+### Advertising Banner Designer - Animation Industry
+December 2024 - April 2025
+- Advertising banner creation for animation projects
+- Social media creatives and digital advertising assets
+- Multiple concept generation and creative testing
+- AI-assisted production and marketing-oriented visual design
 
-- Delivered Stripe subscription and lifecycle webhook integrations for a self-serve SaaS product, covering plan changes, checkout handoff, and customer account updates.
-- Built Node.js services and React admin tools for support teams to inspect subscription state, retry account updates, and resolve onboarding issues.
-- Introduced GitHub Actions CI/CD and automated preview deployments, reducing release handoff time from hours to minutes for product engineers.
-- Added PostgreSQL data-quality checks and background jobs for provisioning workflows triggered by payment and signup events.
-- Wrote Jest and Playwright coverage for signup, subscription, and account-management paths that previously depended on manual QA.
+### Senior Visual Designer - Digital Media Projects
+2017 - 2025
+- Created 1,500+ commercial visuals including thumbnails generating millions of views
+- Led visual production for multiple YouTube media projects and digital brands
+- Managed creative production from concept to delivery
+- Introduced AI-powered workflows increasing production efficiency and scalability
+- CTR optimization, A/B creative testing, competitor and market analysis
 
-## Skills
+### Freelance Graphic & Web Designer
+2014 - 2017
+- Branding systems and advertising materials for business clients
+- Web design, landing pages, UX mockups
+- Illustrations, banners, print and promotional materials
 
-- **Languages & frameworks:** TypeScript, JavaScript, React, Node.js, Express, GraphQL
-- **Data & infrastructure:** PostgreSQL, Redis, RabbitMQ, AWS (EC2, S3), Docker, OpenAPI, Stripe
-- **Quality & tooling:** Git, GitHub Actions, CI/CD, Jest, Playwright, Datadog, feature flags
+### Senior Designer & Commercial Photographer
+2010 - 2014
+- Commercial and product photography, advanced retouching
+- Catalog production and advertising layouts
+- Visual production for commercial clients
 
-## Education
+## KEY ACHIEVEMENTS
 
-B.S. Computer Science — State University (2019)
+- 15+ years of commercial design experience
+- 1,500+ commercial visual projects delivered
+- Millions of views generated through YouTube visual campaigns
+- Successfully integrated AI into professional design production
+- Built scalable AI-assisted creative workflows
+
+## LANGUAGES
+
+Ukrainian - Native | Russian - Native | English - Upper-Intermediate (B2)
